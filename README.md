@@ -17,5 +17,6 @@ This Python code simulates a Magic 8-Ball fortune-telling experience. Here's a s
   **Additional Message Handling:**
         Checks if the variable question is an empty string.
             If true, prints a message indicating that the Magic 8-Ball is patiently waiting for a question.
+            Testing how Lucky you are
 
 This code essentially emulates the experience of asking the Magic 8-Ball a question, receiving a random answer, and printing the interaction details.
